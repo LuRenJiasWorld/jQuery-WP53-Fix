@@ -1,8 +1,6 @@
 # jQuery-WordPress53-Fix
 
-> Author: LuRenJiasWorld<loli@lurenjia.in>
-
-[toc]
+> Author: LuRenJiasWorld\<loli@lurenjia.in\>
 
 ## 中文/Chinese
 
