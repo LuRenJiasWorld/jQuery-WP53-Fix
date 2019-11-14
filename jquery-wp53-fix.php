@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       jQuery-WordPress53-Fix
+ * Plugin Name:       jQuery-WP53-Fix
  * Description:       Fix the jQuery compatibility issue in WordPress 5.3
  * Version:           1.0.0
  * Author:            LuRenJiasWorld
