@@ -1,4 +1,4 @@
-# jQuery-WordPress53-Fix
+# jQuery-WP53-Fix
 
 > Author: LuRenJiasWorld\<loli@lurenjia.in\>
 
