@@ -5,7 +5,7 @@
  * Version:           1.1
  * Author:            LuRenJiasWorld
  * Author URI:        https://github.com/LuRenJiasWorld
- * License:           Apache 2.0
+ * License:           GPLv3
  */
 
 // JUST FIX IT WITHIN A SINGLE LINE OF CODE
